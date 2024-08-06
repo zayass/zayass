@@ -1,9 +1,4 @@
-## Master's degree in reversing linked lists
-
-
-<div align="center">
-  <img src="wow.svg">
-</div>
+![img](wow.svg)
 
 <!--
 **zayass/zayass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
