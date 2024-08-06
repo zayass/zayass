@@ -5,9 +5,14 @@
                 .reversed {
                     transform: scale(-1, -1)
                 }
+                @media (prefers-color-scheme: dark) {
+                    .text { 
+                        color: white
+                    }
+                }
             </style>
             <div class="container">
-                <p class="reversed">Text</p>
+                <p class="text reversed">Text</p>
             </div>
         </div>
     </foreignObject>
